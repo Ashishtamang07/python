@@ -1,0 +1,6 @@
+Sure, here is a list of common Python exceptions along with a brief explanation of each:
+SyntaxError:
+This exception is raised when the Python parser encounters a syntax error, usually due to incorrect Python syntax in the code.
+IndentationError:
+This exception is raised when there is an incorrect indentation in the code, typically when spaces or tabs are not used consistently 
+to define block structures like loops, functions, or classes.
